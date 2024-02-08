@@ -1,4 +1,8 @@
 # BaseDeps
+DROP DATABASE ImportacionDB;
+
+CREATE DATABASE ImportacionDB;
+
 USE ImportacionDB;
 
 create table departamentos(
