@@ -1,0 +1,263 @@
+id_municipio,nombre_municipio,id_departamento
+1, Ahuachapán,1
+2, Apaneca,1
+3, Atiquizaya,1
+4, Concepción de Ataco,1
+5, El Refugio,1
+6, Guaymango,1
+7, Jujutla,1
+8, San Francisco Menéndez,1
+9, San Lorenzo,1
+10, San Pedro Puxtla,1
+11, Tacuba,1
+12, Turín,1
+13, Candelaria de la Frontera,2
+14, Chalchuapa,2
+15, Coatepeque,2
+16, El Congo,2
+17, El Porvenir,2
+18, Masahuat,2
+19, Metapán,2
+20, San Antonio Pajonal,2
+21, San Sebastián Salitrillo,2
+22, Santa Ana,2
+23, Santa Rosa Guachipilín,2
+24, Santiago de la Frontera,2
+25, Texistepeque,2
+26, Acajutla,3
+27, Armenia,3
+28, Caluco,3
+29, Cuisnahuat,3
+30, Izalco,3
+31, Juayúa,3
+32, Nahuizalco,3
+33, Nahulingo,3
+34, Salcoatitán,3
+35, San Antonio del Monte,3
+36, San Julián,3
+37, Santa Catarina Masahuat,3
+38, Santa Isabel Ishuatán,3
+39, Santo Domingo Guzmán,3
+40, Sonsonate,3
+41, Sonzacate,3
+42, Agua Caliente,4
+43, Arcatao,4
+44, Azacualpa,4
+45, Chalatenango,4
+46, Comalapa,4
+47, Citalá,4
+48, Concepción Quezaltepeque,4
+49, Dulce Nombre de María,4
+50, El Carrizal,4
+51, El Paraíso,4
+52, La Laguna,4
+53, La Palma,4
+54, La Reina,4
+55, Las Vueltas,4
+56, Nueva Concepción,4
+57, Nueva Trinidad,4
+58, Nombre de Jesús,4
+59, Ojos de Agua,4
+60, Potonico,4
+61, San Antonio de la Cruz,4
+62, San Antonio Los Ranchos,4
+63, San Fernando,4
+64, San Francisco Lempa,4
+65, San Francisco Morazán,4
+66, San Ignacio,4
+67, San Isidro Labrador,4
+68, San José Cancasque,4
+69, San José Las Flores,4
+70, San Luis del Carmen,4
+71, San Miguel de Mercedes,4
+72, San Rafael,4
+73, Santa Rita,4
+74, Tejutla,4
+75, Candelaria,5
+76, Cojutepeque,5
+77, El Carmen,5
+78, El Rosario,5
+79, Monte San Juan,5
+80, Oratorio de Concepción,5
+81, San Bartolomé Perulapía,5
+82, San Cristóbal,5
+83, San José Guayabal,5
+84, San Pedro Perulapán,5
+85, San Rafael Cedros,5
+86, San Ramón,5
+87, Santa Cruz Analquito,5
+88, Santa Cruz Michapa,5
+89, Suchitoto,5
+90, Tenancingo,5
+91, Aguilares,6
+92, Apopa,6
+93, Ayutuxtepeque,6
+94, Cuscatancingo,6
+95, Ciudad Delgado,6
+96, El Paisnal,6
+97, Guazapa,6
+98, Ilopango,6
+99, Mejicanos,6
+100, Nejapa,6
+101, Panchimalco,6
+102, Rosario de Mora,6
+103, San Marcos,6
+104, San Martín,6
+105, San Salvador,6
+106, Santiago Texacuangos,6
+107, Santo Tomás,6
+108, Soyapango,6
+109, Tonacatepeque,6
+110, Antiguo Cuscatlán,7
+111, Chiltiupán,7
+112, Ciudad Arce,7
+113, Colón,7
+114, Comasagua,7
+115, Huizúcar,7
+116, Jayaque,7
+117, Jicalapa,7
+118, La Libertad,7
+119, Santa Tecla,7
+120, Nuevo Cuscatlán,7
+121, San Juan Opico,7
+122, Quezaltepeque,7
+123, Sacacoyo,7
+124, San José Villanueva,7
+125, San Matías,7
+126, San Pablo Tacachico,7
+127, Talnique,7
+128, Tamanique,7
+129, Teotepeque,7
+130, Tepecoyo,7
+131,  Zaragoza,7
+132, Apastepeque,8
+133, Guadalupe,8
+134, San Cayetano Istepeque,8
+135, San Esteban Catarina,8
+136, San Ildefonso,8
+137, San Lorenzo,8
+138, San Sebastián,8
+139, San Vicente,8
+140, Santa Clara,8
+141, Santo Domingo,8
+142, Tecoluca,8
+143, Tepetitán,8
+144, Verapaz,8
+145, Cinquera,9
+146, Dolores,9
+147, Guacotecti,9
+148, Ilobasco,9
+149, Jutiapa,9
+150, San Isidro,9
+151, Sensuntepeque,9
+152, Tejutepeque,9
+153, Victoria,9
+154, Cuyultitán,10
+155, El Rosario,10
+156, Jerusalén,10
+157, Mercedes La Ceiba,10
+158, Olocuilta,10
+159, Paraíso de Osorio,10
+160, San Antonio Masahuat,10
+161, San Emigdio,10
+162, San Francisco Chinameca,10
+163, San Juan Nonualco,10
+164, San Juan Talpa,10
+165, San Juan Tepezontes,10
+166, San Luis Talpa,10
+167, San Luis La Herradura,10
+168, San Miguel Tepezontes,10
+169, San Pedro Masahuat,10
+170, San Pedro Nonualco,10
+171, San Rafael Obrajuelo,10
+172, Santa María Ostuma,10
+173, Santiago Nonualco,10
+174, Tapalhuaca,10
+175, Zacatecoluca,10
+176, Alegría,11
+177, Berlín,11
+178, California,11
+179, Concepción Batres,11
+180, El Triunfo,11
+181, Ereguayquín,11
+182, Estanzuelas,11
+183, Jiquilisco,11
+184, Jucuapa,11
+185, Jucuarán,11
+186, Mercedes Umaña,11
+187, Nueva Granada,11
+188, Ozatlán,11
+189, Puerto El Triunfo,11
+190, San Agustín,11
+191, San Buenaventura,11
+192, San Dionisio,11
+193, San Francisco Javier,11
+194, Santa Elena,11
+195, Santa María,11
+196, Santiago de María,11
+197, Tecapán,11
+198, Usulután,11
+199, Carolina,12
+200, Chapeltique,12
+201, Chinameca,12
+202, Chirilagua,12
+203, Ciudad Barrios,12
+204, Comacarán,12
+205, El Tránsito,12
+206, Lolotique,12
+207, Moncagua,12
+208, Nueva Guadalupe,12
+209, Nuevo Edén de San Juan,12
+210, Quelepa,12
+211, San Antonio del Mosco,12
+212, San Gerardo,12
+213, San Jorge,12
+214, San Luis de la Reina,12
+215, San Miguel,12
+216, San Rafael Oriente,12
+217, Sesori,12
+218, Uluazapa,12
+219, Arambala,13
+220, Cacaopera,13
+221, Chilanga,13
+222, Corinto,13
+223, Delicias de Concepción,13
+224, El Divisadero,13
+225, El Rosario,13
+226, Gualococti,13
+227, Guatajiagua,13
+228, Joateca,13
+229, Jocoaitique,13
+230, Jocoro,13
+231, Lolotiquillo,13
+232, Meanguera,13
+233, Osicala,13
+234, Perquín,13
+235, San Carlos,13
+236, San Fernando,13
+237, San Francisco Gotera,13
+238, San Isidro,13
+239, San Simón,13
+240, Sensembra,13
+241, Sociedad,13
+242,  Torola,13
+243, Yamabal,13
+244, Yoloaiquín,13
+245, Anamorós,14
+246, Bolívar,14
+247, Concepción de Oriente,14
+248, Conchagua,14
+249, El Carmen,14
+250, El Sauce,14
+251, Intipucá,14
+252, La Unión,14
+253, Lislique,14
+254, Meanguera del Golfo,14
+255, Nueva Esparta,14
+256, Pasaquina,14
+257, Polorós,14
+258, San Alejo,14
+259, San José,14
+260, Santa Rosa de Lima,14
+261, Yayantique,14
+262, Yucuaiquín,14
