@@ -7,7 +7,7 @@ USE ImportacionDB;
 
 create table departamentos(
 	id_departamento int primary key AUTO_INCREMENT,
-	nombreDepartamento varchar(40) not null
+	nombre_departamento varchar(40) not null
 );
 
 create table municipios(
